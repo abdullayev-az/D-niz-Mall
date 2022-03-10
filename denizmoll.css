@@ -1194,6 +1194,9 @@
     .overlay-foter{
         display: none;
     }
+    .hr-ovrly{
+        display: none;
+    }
 }
 @media only screen and (max-width: 480px){
     .brend-img img{
